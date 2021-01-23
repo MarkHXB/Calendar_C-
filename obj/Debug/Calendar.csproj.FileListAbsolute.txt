@@ -1,0 +1,15 @@
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar_C-\obj\Debug\Calendar.csprojAssemblyReference.cache
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar_C-\obj\Debug\Calendar.Calendar.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar_C-\obj\Debug\Calendar.Form1.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar_C-\obj\Debug\Calendar.ListTest.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar_C-\obj\Debug\Calendar.MainForm.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar_C-\obj\Debug\Calendar.Main.AddSection.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar_C-\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar\obj\Debug\Calendar.csprojAssemblyReference.cache
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar\obj\Debug\Calendar.Calendar.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar\obj\Debug\Calendar.Form1.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar\obj\Debug\Calendar.ListTest.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar\obj\Debug\Calendar.MainForm.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar\obj\Debug\Calendar.Main.AddSection.resources
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar\obj\Debug\Calendar.csproj.GenerateResource.cache
+C:\Users\bakon\OneDrive\Asztali gép\Calendar\Calendar\obj\Debug\Calendar.csproj.CoreCompileInputs.cache
